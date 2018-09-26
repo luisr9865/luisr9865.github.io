@@ -1,2 +1,3 @@
 name: Luis Romero
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
