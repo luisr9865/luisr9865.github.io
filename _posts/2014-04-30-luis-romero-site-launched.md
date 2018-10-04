@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Luis Romero, Student, Launches Site"
+title: "Luis Romero, Student, Weekly Reflection"
 date: 2014-04-30
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+This week I worked on pyret and learned how to structure data to make shape. I learned what some strings in coding are for. For example, used to keep all the code together in a folder.
