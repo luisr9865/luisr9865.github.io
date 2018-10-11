@@ -1,6 +1,6 @@
 ---
 layout: post
 title: "Luis Romero, Student, Weekly Reflection"
-date: 2014-04-30
+date: 2014-10-11
 ---
-This week I worked on pyret and learned how to structure data to make shape. I learned what some strings in coding are for. For example, used to keep all the code together in a folder.
+Today very few people were able to focus in class because everybody was talking.This week we learned how to create flags on a website called "pyret". We learned that to make a flag you also had to create layers within the flag. we do this so that the colors outline but be seperated.
