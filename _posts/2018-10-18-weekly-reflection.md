@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Luis Romero, Student, Weekly Reflection"
+title: "Luis Romero, Weekly Reflection"
 date: 2018-10-18
 ---
 
